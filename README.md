@@ -12,7 +12,7 @@ Luego, se debe vincular el módulo al proyecto (esto debe hacerse en la carpeta 
 npm link node-windows
 ```
 
-Finalmente, modificar el archivo **service.js** y ejecutar para instalar el servicio:
+Finalmente, modificar el archivo **service.js** y ejecutar para instalar el servicio (**ESTE COMANDO DEBE SER HECHO POR UNA CONSOLA EJECUTADA COMO ADMINISTRADOR**):
 
 ```
 node service.js
